@@ -1,0 +1,27 @@
+
+Seller - some getting "vehicle\" id=\"vm_...." i.e. for ID 645181218
+
+
+JSON File notes:
+2015-09-20, 22:38:	642475020 has car page data
+			644787429 has car page data
+
+2015-09-20, 22:41:	642475020 has car page data
+			644787429 has car page data
+			646555599 has car page data
+
+
+convert dict of cars to dict of list of features for plotting, analysis, etc.
+
+create string function for car record for printing
+
+
+
+    #Remove entries with missing Price, Milage, Model Year
+
+    #Save as csv?
+
+    #Make list for each model year
+
+    #Plot price vs. milage by model year
+
